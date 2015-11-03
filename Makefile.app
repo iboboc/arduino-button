@@ -1,0 +1,1 @@
+core-y += ${PROJECT_BASE}/arduino/

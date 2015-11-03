@@ -1,0 +1,9 @@
+% Application       : GPIO demo
+
+% TASK NAME  PRIO ENTRY STACK GROUPS
+% ==================================
+  TASK MAIN     7 arduino   2048 [EXE]
+
+% EVENT NAME
+% =============
+  EVENT ADCREADY NULL
